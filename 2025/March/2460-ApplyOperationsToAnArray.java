@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01
+//Topics: arrays, two-pointers
 class Solution {
     public int[] applyOperations(int[] nums) {
         int n=nums.length;
