@@ -7,17 +7,6 @@ This repository contains solutions to daily problems from LeetCode. The goal is 
 - Each problem solution is named according to the problem's ID and title from LeetCode.
 - All solutions are implemented in Java.
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Akshithanaverse/LeetCode-Daily-Problems.git
-   ```
-2. Navigate to the repository directory:
-   ```bash
-   cd LeetCode-Daily-Problems
-   ```
-3. Open the specific problem file you are interested in to view its solution.
 
 ## Purpose
 
